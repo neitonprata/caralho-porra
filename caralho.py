@@ -1,0 +1,1 @@
+print ("quando essa porrra vai funcionar parte 1?????")
